@@ -1,0 +1,38 @@
+3eme chorale Manager — version tablette Android
+================================================
+
+Cette version fonctionne comme une application : une fois installée, elle marche SANS internet.
+Il faut juste mettre ces fichiers sur un site gratuit une seule fois (GitHub Pages).
+
+ÉTAPE 1 — Mettre les fichiers en ligne (une seule fois, gratuit)
+1. Créez un compte gratuit sur https://github.com
+2. Cliquez sur « New repository », nommez-le « chorale », choisissez « Public », puis « Create repository ».
+3. Cliquez sur « uploading an existing file » et glissez TOUS les fichiers et le dossier « lib » de ce dossier.
+   Cliquez sur « Commit changes ».
+4. Allez dans « Settings » > « Pages ». Sous « Branch », choisissez « main » puis « Save ».
+5. Après 1 à 2 minutes, votre adresse est : https://VOTRE-NOM.github.io/chorale/
+
+IMPORTANT : le dépôt est public, mais il ne contient QUE le logiciel, jamais les données des membres.
+Les données restent sur la tablette. Le mot de passe protège l'accès.
+
+ÉTAPE 2 — Installer sur la tablette
+1. Ouvrez l'adresse ci-dessus dans Chrome sur la tablette.
+2. Menu (trois points) > « Installer l'application » (ou « Ajouter à l'écran d'accueil »).
+3. L'icône apparaît sur l'écran d'accueil. Ouvrez-la une fois avec internet, puis elle marche hors ligne.
+
+ÉTAPE 3 — Premier transfert des données du PC vers la tablette
+1. Sur le PC : menu « Sauvegarde » > « Sauvegarder » : un fichier .json est créé.
+2. Envoyez ce fichier à la tablette (WhatsApp, e-mail, clé USB...).
+3. Sur la tablette : « Sauvegarde » > « Restaurer depuis un fichier » (une seule fois, la première fois).
+
+ENSUITE — Mettre à jour dans les deux sens (menu « Sauvegarde » > « Échange tablette ↔ PC »)
+- Sur un appareil : « Exporter pour l'autre appareil ».
+- Sur l'autre : « Importer et fusionner ». Un résumé s'affiche avant de valider.
+- Les deux appareils se mettent à jour sans rien perdre (la donnée la plus récente est gardée).
+
+OPTION — Obtenir un vrai fichier APK
+Quand l'adresse https://VOTRE-NOM.github.io/chorale/ fonctionne, allez sur https://www.pwabuilder.com,
+collez l'adresse, cliquez sur « Package for stores » > « Android » : le site fabrique l'APK gratuitement.
+
+Remarque : la version d'essai (20 jours) et le mot de passe fonctionnent aussi sur la tablette.
+Les codes de prolongation sont les mêmes que sur le PC.
